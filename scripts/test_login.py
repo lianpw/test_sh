@@ -17,3 +17,6 @@ class TestLogin:
     @allure.step('我是测试步骤002')
     def test_02(self):
         print(2)
+        
+    def test_03(self):
+        print(3)
