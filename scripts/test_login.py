@@ -20,4 +20,4 @@ class TestLogin:
         
     def test_03(self):
         print(3)
-        assert 1
+        assert 0
